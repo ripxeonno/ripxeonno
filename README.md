@@ -1,9 +1,5 @@
 <h1 align="center">hey 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Portugal-006600?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MCA2MCI+PHJlY3Qgd2lkdGg9IjkwIiBoZWlnaHQ9IjYwIiBmaWxsPSIjZmYwMDAwIi8+PHJlY3Qgd2lkdGg9IjM2IiBoZWlnaHQ9IjYwIiBmaWxsPSIjMDA2NjAwIi8+PC9zdmc+&logoColor=white" />
-</p>
-
 ---
 
 **pesquisador de bases de dados vazadas** e segurança ofensiva. baseado em 🇵🇹 Portugal.
