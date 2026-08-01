@@ -4,12 +4,6 @@
 
 **pesquisador de bases de dados vazadas** e segurança ofensiva. baseado em 🇵🇹 Portugal.
 
-```
-> interesse principal: leaked databases, osint, threat intelligence
-```
-
----
-
 ### linguagens & ferramentas
 
 <p align="left">
@@ -22,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git" />
 </p>
 
-> principal: **C++ / C# / Python** — confortável também com JS e SQL
+> principal: **C++ / C# / Python** mas também tenho conhecimento com JS e SQL
 
 ---
 
