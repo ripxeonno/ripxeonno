@@ -13,9 +13,6 @@
 <p align="center">projects</p>
 
 <p align="center">
-  <a href="https://exagonai.com/" target="_blank">
-    <img src="https://zpaysolution.com/i/fuam/logo-exagon.png" height="40" />
-  </a>
-  <a href="https://zpaysolution.com/" target="_blank">o.png" height="40" />
-  </a>
+  <a href="https://exagonai.com/" target="_blank"><img src="https://zpaysolution.com/i/fuam/logo-exagon.png" height="40" /></a>
+  <a href="https://zpaysolution.com/" target="_blank"><img src="https://zpaysolution.com/images/zpay-logo.png" height="40" /></a>
 </p>
