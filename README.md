@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remakeable&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tristeano&layout=compact&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 </p>
