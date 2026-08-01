@@ -1,8 +1,4 @@
-<h1 align="center">hey 👋</h1>
-
 <p align="center">osint & data mining ;) based in portugal &lt;3</p>
-
----
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++" />
