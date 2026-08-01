@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ripxeonno.ripxeonno&left_color=black&right_color=black&left_text=visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ripxeonno.ripxeonno&left_color=0d1117&right_color=0d1117&left_text=visitors" />
 </p>
