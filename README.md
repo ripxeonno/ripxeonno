@@ -1,7 +1,5 @@
 <h1 align="center">hey 👋</h1>
 
----
-
 **pesquisador de bases de dados vazadas** e segurança ofensiva ;) based in portugal <3
 
 ### linguagens & ferramentas
