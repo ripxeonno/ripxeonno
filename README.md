@@ -2,7 +2,7 @@
 
 ---
 
-**pesquisador de bases de dados vazadas** e segurança ofensiva. baseado em <img src="https://images.emojiterra.com/twitter/v14.0/128px/1f1f5-1f1f9.png" width="20" /> Portugal.
+**pesquisador de bases de dados vazadas** e segurança ofensiva. baseado em <img src="https://images.emojiterra.com/twitter/v14.0/128px/1f1f5-1f1f9.png" width="20" style="vertical-align: -4px;" /> Portugal.
 
 ### linguagens & ferramentas
 
