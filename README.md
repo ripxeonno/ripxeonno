@@ -17,7 +17,3 @@
   <a href="https://exagonai.com/" target="_blank"><img src="https://zpaysolution.com/i/fuam/logo-exagon.png" height="40" /></a>
   <a href="https://zpaysolution.com/" target="_blank"><img src="https://zpaysolution.com/images/zpay-logo.png" height="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ripxeonno.ripxeonno&left_color=0d1117&right_color=0d1117&left_text=visitors" />
-</p>
