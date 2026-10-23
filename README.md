@@ -18,4 +18,8 @@
   <a href="https://zpaysolution.com/" target="_blank"><img src="https://zpaysolution.com/images/zpay-logo.png" height="40" /></a>
   <a href="https://ghosthub.fun/" target="_blank"><img src="https://ghosthub.shardweb.app/logo.png" height="40" /></a>
   <a href="https://discord.com/invite/cmsp" target="_blank"><img src="https://zpaysolution.com/i/fuam/logo-cmsp.png" height="40" /></a>
+  <a href="https://discord.gg/coldpay" target="_blank"><img src="https://zpaysolution.com/i/fuam/cold.png" height="40" /></a>
+  <a href="https://discord.gg/urso" target="_blank"><img src="https://zpaysolution.com/i/fuam/urso.png" height="40" /></a>
+  <a href="https://discord.gg/loopbot" target="_blank"><img src="https://zpaysolution.com/i/fuam/loop.png" height="40" /></a>
+  <a href="https://cylinderhost.com" target="_blank"><img src="https://zpaysolution.com/i/fuam/cylinder.png" height="40" /></a>
 </p>
