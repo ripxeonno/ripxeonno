@@ -14,9 +14,7 @@
 <p align="center">projects</p>
 
 <p align="center">
-  ㅤ<code>𑣲B</code>
-  <img src="https://your-counter-service.example/counter?start=2026-07-01" alt="Tempo desde 1 de julho de 2026" />
-  ( 1 de julho )
+  ㅤ<code>𑣲B</code> <span id="counter">Since July 1, 2026</span> ( 1 de julho )
 </p>
 
 <p align="center">
