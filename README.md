@@ -1,6 +1,10 @@
 <p align="center">osint & data mining ;) based in portugal &lt;3</p>
 
 <p align="center">
+  ㅤ<code>𑣲B</code> <span>desde 1 de julho de 2026</span>
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python" />
