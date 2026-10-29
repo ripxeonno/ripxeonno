@@ -14,10 +14,6 @@
 <p align="center">projects</p>
 
 <p align="center">
-  ㅤ<code>𑣲B</code> <span id="counter">Since July 1, 2026</span> ( 1 de julho )
-</p>
-
-<p align="center">
   <a href="https://exagonai.com/" target="_blank"><img src="https://zpaysolution.com/i/fuam/logo-exagon.png" height="40" /></a>
   <a href="https://discord.gg/coldpay" target="_blank"><img src="https://zpaysolution.com/i/fuam/cold.png" height="40" /></a>
   <a href="https://zpaysolution.com/" target="_blank"><img src="https://zpaysolution.com/images/zpay-logo.png" height="40" /></a>
